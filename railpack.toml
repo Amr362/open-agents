@@ -1,2 +1,5 @@
 [build]
 packageManager = "bun"
+
+[run]
+command = "bun --cwd apps/web run start"
