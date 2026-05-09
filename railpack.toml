@@ -1,5 +1,2 @@
 [build]
 packageManager = "bun"
-
-[run]
-command = "sh -c 'cd apps/web && bun run start'"
