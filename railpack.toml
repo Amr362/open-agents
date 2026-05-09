@@ -2,4 +2,4 @@
 packageManager = "bun"
 
 [run]
-command = "bun --cwd apps/web run start"
+command = "sh -c 'cd apps/web && bun run start'"
